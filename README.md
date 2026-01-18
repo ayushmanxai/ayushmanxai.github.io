@@ -1,2 +1,2 @@
-# ayyushhmann.github.io
+# ayushmanxai.github.io
 my personal portfolio
